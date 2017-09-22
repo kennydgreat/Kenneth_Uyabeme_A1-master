@@ -7,13 +7,13 @@
     <string name="text_for_clear_button">Clear</string>
     <string name="tip_display_string">Tip is: $%.2f</string>
     <string name="amount_per_person_string">Per person: $%.2f</string>
-    <string-array name="TipSpinnerData">
+    <string-array name="tip_spinner_data">
         <item>10</item>
         <item>15</item>
         <item>18</item>
         <item>20</item>
     </string-array>
-    <string-array name="NumberOfPeopleSpinnerData">
+    <string-array name="number_of_people_spinner_data">
         <item>1</item>
         <item>2</item>
         <item>3</item>

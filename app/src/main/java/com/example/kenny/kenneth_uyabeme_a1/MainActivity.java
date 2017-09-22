@@ -16,8 +16,7 @@ import android.widget.TextView;
 
 /*
  * This is the MainActivity app for the Mobile Computing
- * Assignment 1 which is a Tip calculator.
-  * This app */
+ * Assignment 1 which is a Tip calculator. */
 public class MainActivity extends Activity {
     //CONSTANTS
     public static final double HST_VALUE = 0.13;
@@ -131,8 +130,8 @@ public class MainActivity extends Activity {
         hstcheckBox.setOnClickListener(hsTcheckButtonListener);
 
         //String array containing spinner string data
-        String[] tipSpinnerData = getResources().getStringArray(R.array.TipSpinnerData);
-        String[] numofPeopleSpinnerData = getResources().getStringArray(R.array.NumberOfPeopleSpinnerData);
+        String[] tipSpinnerData = getResources().getStringArray(R.array.tip_spinner_data);
+        String[] numofPeopleSpinnerData = getResources().getStringArray(R.array.number_of_people_spinner_data);
 
 
         //Creating AraayAdapters
