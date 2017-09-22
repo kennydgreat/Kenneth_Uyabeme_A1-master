@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Kenneth_Uyabeme_A1</string>
+    <string name="text_for_enter_amount_hint">Enter Amount</string>
+    <string name="include_hst_checkbox_string">Include HST</string>
+    <string name="text_for_tip_textview">Tip%</string>
+    <string name="text_for_num_of_people_textview"># of people</string>
+    <string name="text_for_clear_button">Clear</string>
+    <string name="tip_display_string">Tip is: $%.2f</string>
+    <string name="amount_per_person_string">Per person: $%.2f</string>
+    <string-array name="TipSpinnerData">
+        <item>10</item>
+        <item>15</item>
+        <item>18</item>
+        <item>20</item>
+    </string-array>
+    <string-array name="NumberOfPeopleSpinnerData">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+</resources>
